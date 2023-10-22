@@ -8,3 +8,4 @@ drishtiias.com###disqus_recommendations
 drishtiias.com##.section-newsletter-alerts
 drishtiias.com##.footer
 drishtiias.com##.float-sm
+drishtiias.com##.top-bar
