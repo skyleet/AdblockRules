@@ -1,0 +1,4 @@
+drishtiias.com##.mobile-bar
+drishtiias.com##.mobile_view_only
+drishtiias.com##img.open-button
+drishtiias.com##.show
