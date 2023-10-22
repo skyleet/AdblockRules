@@ -9,3 +9,12 @@ drishtiias.com##.section-newsletter-alerts
 drishtiias.com##.footer
 drishtiias.com##.float-sm
 drishtiias.com##.top-bar
+insightsonindia.com##.div-mobiletopbar
+insightsonindia.com###back
+insightsonindia.com###thread__container
+insightsonindia.com##.sidebar
+insightsonindia.com##.site-footer
+insightsonindia.com##.footer_div
+insightsonindia.com###disqus_thread
+insightsonindia.com##.mob-menu-header-holder
+insightsonindia.com##.mobmenu
