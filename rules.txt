@@ -18,6 +18,9 @@ insightsonindia.com##.footer_div
 insightsonindia.com###disqus_thread
 insightsonindia.com##.mob-menu-header-holder
 insightsonindia.com##.mobmenu
+
+
+
 investorgain.com###div-ad-header-linkunit-desktop
 investorgain.com###right
 investorgain.com###WelcomeAlert
@@ -44,18 +47,18 @@ investorgain.com##div[style="padding:5px"]
 investorgain.com##form[name="frmSearch"]
 
 
+investorgain.com##td:nth-child(2)
+investorgain.com##td:nth-child(5)
+investorgain.com##td:nth-child(7)
 investorgain.com##td:nth-child(10)
 investorgain.com##td:nth-child(12)
 
-investorgain.com##td:nth-child(5)
-investorgain.com##td:nth-child(7)
 
-
-investorgain.com##th:nth-child(10)
-investorgain.com##th:nth-child(12)
 investorgain.com##th:nth-child(2)
 investorgain.com##th:nth-child(5)
 investorgain.com##th:nth-child(7)
+investorgain.com##th:nth-child(10)
+investorgain.com##th:nth-child(12)
 
 investorgain.com##tr.fullview
 investorgain.com##ul.nav-tabs
