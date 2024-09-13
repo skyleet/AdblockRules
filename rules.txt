@@ -47,10 +47,6 @@ investorgain.com##td:nth-child(12)
 investorgain.com##td:nth-child(2)
 investorgain.com##td:nth-child(5)
 investorgain.com##td:nth-child(7)
-investorgain.com##th:nth-child(10)
-investorgain.com##th:nth-child(12)
-investorgain.com##th:nth-child(2)
-investorgain.com##th:nth-child(5)
-investorgain.com##th:nth-child(7)
+
 investorgain.com##tr.fullview
 investorgain.com##ul.nav-tabs
