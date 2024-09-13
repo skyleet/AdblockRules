@@ -43,11 +43,13 @@ investorgain.com##div.float-end
 investorgain.com##div[style="padding:5px"]
 investorgain.com##form[name="frmSearch"]
 
+
 investorgain.com##td:nth-child(10)
 investorgain.com##td:nth-child(12)
-investorgain.com##td:nth-child(12)
+
 investorgain.com##td:nth-child(5)
 investorgain.com##td:nth-child(7)
+
 
 investorgain.com##th:nth-child(10)
 investorgain.com##th:nth-child(12)
