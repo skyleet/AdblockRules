@@ -48,10 +48,12 @@ investorgain.com##form[name="frmSearch"]
 
 
 investorgain.com##td:nth-child(12)
+investorgain.com##td:nth-child(11)
 
 
 
 investorgain.com##th:nth-child(12)
+investorgain.com##th:nth-child(11)
 
 
 investorgain.com##tr.fullview
